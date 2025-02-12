@@ -5,11 +5,11 @@ FoodHub is a food aggregator platform that connects customers with restaurants f
 
 # Objectives
 
-Analyze order trends and customer preferences.
+🔹 Analyze order trends and customer preferences.
 
-Identify key factors affecting delivery efficiency.
+🔹 Identify key factors affecting delivery efficiency.
 
-Provide recommendations for optimizing business operations.
+🔹 Provide recommendations for optimizing business operations.
 
 # Dataset
 
