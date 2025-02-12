@@ -19,23 +19,23 @@ Size: 1898 rows × 9 columns
 
 # Data Analysis & Insights
 
-Most Popular Cuisine: American, followed by Japanese and Italian.
+✅ Most Popular Cuisine: American, followed by Japanese and Italian.
 
-Orders Peak on Weekends: 71% of orders are placed on weekends.
+✅ Orders Peak on Weekends: 71% of orders are placed on weekends.
 
-Delivery Time is Longer on Weekdays: Average 28.34 min (Weekday) vs. 22.47 min (Weekend).
+✅ Delivery Time is Longer on Weekdays: Average 28.34 min (Weekday) vs. 22.47 min (Weekend).
 
-Customer Ratings: 39% of orders have missing ratings.
+✅ Customer Ratings: 39% of orders have missing ratings.
 
-High-Cost Orders: 29% of orders cost over $20.
+✅ High-Cost Orders: 29% of orders cost over $20.
 
-Frequent Customers: Top 3 customers placed 13, 10, and 9 orders, respectively.
+✅ Frequent Customers: Top 3 customers placed 13, 10, and 9 orders, respectively.
 
-Top Restaurants by Order Volume: Shake Shack, The Meatball Shop, Blue Ribbon Sushi.
+✅ Top Restaurants by Order Volume: Shake Shack, The Meatball Shop, Blue Ribbon Sushi.
 
-Revenue: Total revenue from commissions is $6166.30.
+✅ Revenue: Total revenue from commissions is $6166.30.
 
-Delivery Efficiency: 10.5% of orders take over 60 minutes.
+✅ Delivery Efficiency: 10.5% of orders take over 60 minutes.
 
 # Key Recommendations
 
